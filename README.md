@@ -7,19 +7,13 @@ Sikun Yang, and Heinz Koeppl, "Dependent Relational Gamma Process Models for Lon
 
 Dependent Relational Gamma Process Models for Longitudinal Networks
 
-
-@InProceedings{pmlr-v80-yang18b,
+@inproceedings{CVBNGFA,
   title = 	 {Dependent Relational Gamma Process Models for Longitudinal Networks},
   author = 	 {Yang, Sikun and Koeppl, Heinz},
   booktitle = 	 {Proceedings of the 35th International Conference on Machine Learning},
   pages = 	 {5551--5560},
-  year = 	 {2018},
-  editor = 	 {Dy, Jennifer and Krause, Andreas},
-  volume = 	 {80},
-  series = 	 {Proceedings of Machine Learning Research},
-  address = 	 {Stockholmsmässan, Stockholm Sweden},
+  year = 	 {2018}
 }
-
     
 # Acknowledgements
 
