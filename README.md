@@ -1,6 +1,4 @@
-# DRGaP-DNM
-
-Dependent Relational Gamma Process Models for Longitudinal Networks
+# Dependent Relational Gamma Process Models for Longitudinal Networks
 
 
 # Matlab code for the following paper:
